@@ -60,7 +60,3 @@ This project is a fan-made recreation inspired by the original design from Googl
 It is not affiliated with or endorsed by Google.
 
 ---
-
-## 📄 License
-
-Specify your license here (MIT, Apache 2.0, etc.)
